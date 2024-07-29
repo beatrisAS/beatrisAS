@@ -21,7 +21,7 @@
 
 ##
 <a href="https://github.com/beatrisAS/github-readme-stats">
-  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=beatrisAS&include_all_commits=true&rank_icon=github&theme=tokyonight"/>
+  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=beatrisAS&show_icons=github&theme=tokyonight"/>
 </a>
 <a href="https://github.com/beatrisAS/github-readme-stats">
   <img align="center"  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&theme=tokyonight"/>
