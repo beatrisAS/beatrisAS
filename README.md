@@ -2,8 +2,6 @@
 
 🎓 I'm currently pursuing a Bachelor's degree in Information Technology at UNIVESP.
 
-💼 I work as a Software Developer Resident at FITec.
-
 📚 Currently learning Java.
 
 🎬 I enjoy watching movies and series.
