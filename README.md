@@ -17,10 +17,4 @@
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
-##
-<a href="https://github.com/beatrisAS/github-readme-stats">
-  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=beatrisAS&rank_icon=github&theme=tokyonight"/>
-</a>
-<a href="https://github.com/beatrisAS/github-readme-stats">
-  <img align="center"  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&theme=tokyonight"/>
-</a>
+
