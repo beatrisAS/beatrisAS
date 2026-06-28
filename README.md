@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Beatris+%F0%9F%91%8B;Aspirante+a+Analista+de+Dados;Python+%7C+SQL+%7C+AWS;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Beatris!+%F0%9F%91%8B;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+AWS;Turning+data+into+decisions" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,25 +14,25 @@
   <a href="https://github.com/beatrisAS">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=beatrisAS&style=for-the-badge&color=6E40C9&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=beatrisAS&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" />
 </div>
 
 ---
 
-### 👩‍💻 Sobre mim
+### 👩‍💻 About Me
 
-- 🔭 Atualmente trabalhando com automações em **Python + Shell Script** e monitoramento via **AWS CloudWatch**
-- 🌱 Em transição para **Análise de Dados** — estudando EDA, visualização e pipelines de dados
-- ☁️ Certificada **AWS re/Start** pela Escola da Nuvem (300h)
-- 💬 Me pergunte sobre: Python, SQL, AWS, automação de processos ou acessibilidade web
+- 🔭 Currently working with process automation using **Python + Shell Script** and infrastructure monitoring via **AWS CloudWatch**
+- 🌱 Transitioning into **Data Analysis** — studying EDA, data visualization and data pipelines
+- ☁️ **AWS re/Start** certified by Escola da Nuvem (300h)
+- 💬 Ask me about: Python, SQL, AWS, process automation or web accessibility
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
 <div align="center">
 
-**Dados & Análise**
+**Data & Analysis**
 
 <img src="https://skillicons.dev/icons?i=python,sqlite&theme=dark" />
 &nbsp;
@@ -45,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=aws,git,linux&theme=dark" />
 
-**Desenvolvimento**
+**Development**
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,java,bootstrap,figma&theme=dark" />
 
@@ -61,48 +61,47 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=beatrisAS&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=beatrisAS&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-#### 🛒 E-commerce para Autopeças — Full Stack
-> Projeto Integrador · Univesp · 2025–2026
+#### 🛒 Auto Parts E-commerce — Full Stack
+> Integrator Project · Univesp · 2025–2026
 
-Plataforma escalável com arquitetura monolítica modular, modelagem relacional com **SQL Server** e deploy em nuvem. Back-end robusto em **C# / .NET** para gestão de produtos, clientes e pedidos.
+Scalable e-commerce platform for the auto parts industry with modular monolithic architecture, relational data modeling with **SQL Server** and cloud deployment. Robust back-end in **C# / .NET** for product, customer and order management.
 
 `C#` `.NET` `SQL Server` `Cloud Computing`
 
-#### 🧠 Plataforma Interativa Infantil de Aprendizagem — TCC
+#### 🧠 Interactive Children's Learning Platform — TCC
 > ETEC · 2025
 
-Plataforma web lúdica com foco em **acessibilidade digital (WCAG)** e **design inclusivo** para crianças neurodivergentes — com gamificação e estimulação cognitiva.
+Playful web platform focused on **digital accessibility (WCAG)** and **inclusive design** for neurodivergent children — featuring gamification and cognitive stimulation.
 
 `HTML` `CSS` `JavaScript` `Bootstrap` `C#` `.NET` `SQL`
 
+---
 
+### 🏢 Experience
 
-
-### 🏢 Experiência
-
-| Período | Empresa | Papel |
+| Period | Company | Role |
 |:---|:---|:---|
-| mar/2025 – mar/2026 | **DataPrev** | Estagiária · Infraestrutura & Dados |
-| mar/2024 – set/2024 | **FITec** | Residente em Desenvolvimento de Sistemas |
-| mar/2023 – jul/2023 | **Central IT** | Programadora de Sistemas de Informação |
+| Mar/2025 – Mar/2026 | **DataPrev** | IT Intern · Infrastructure & Data |
+| Mar/2024 – Sep/2024 | **FITec** | Systems Development Resident |
+| Mar/2023 – Jul/2023 | **Central IT** | Information Systems Programmer |
 
-### 🎓 Formação & Certificações
+### 🎓 Education & Certifications
 
 | | |
 |:---|:---|
-| 🎓 | Bacharelado em TI — **Univesp** (2023–2026) |
-| 🎓 | Técnico em Desenvolvimento de Sistemas — **ETEC** (2024–2025) |
+| 🎓 | B.Sc. in Information Technology — **Univesp** (2023–2026) |
+| 🎓 | Technical Degree in Systems Development — **ETEC** (2024–2025) |
 | ☁️ | **AWS re/Start** — Escola da Nuvem · 300h · 2026 |
 
 ---
 
 <div align="center">
-  <i>✨ "Dados são o novo petróleo — mas só valem se refinados." ✨</i>
+  <i>✨ "Data is the new oil — but only valuable when refined." ✨</i>
 </div>
