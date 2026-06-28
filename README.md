@@ -21,17 +21,6 @@
 
 ### 👩‍💻 Sobre mim
 
-```python
-beatris = {
-    "role":       "Estagiária → Analista de Dados Jr.",
-    "company":    "DataPrev",
-    "location":   "Pirituba, São Paulo – SP 🇧🇷",
-    "focus":      ["Python", "SQL", "ETL", "AWS", "Automação"],
-    "studying":   "Bacharelado em TI @ Univesp",
-    "goal":       "Transformar dados em insights acionáveis 📊",
-}
-```
-
 - 🔭 Atualmente trabalhando com automações em **Python + Shell Script** e monitoramento via **AWS CloudWatch**
 - 🌱 Em transição para **Análise de Dados** — estudando EDA, visualização e pipelines de dados
 - ☁️ Certificada **AWS re/Start** pela Escola da Nuvem (300h)
@@ -79,13 +68,6 @@ beatris = {
 
 ### 🚀 Projetos em Destaque
 
-<div align="center">
-
-[![E-commerce Autopeças](https://github-readme-stats.vercel.app/api/pin/?username=beatrisAS&repo=ecommerce-autopecas&theme=tokyonight&hide_border=true)](https://github.com/beatrisAS)
-[![Plataforma Infantil](https://github-readme-stats.vercel.app/api/pin/?username=beatrisAS&repo=plataforma-infantil&theme=tokyonight&hide_border=true)](https://github.com/beatrisAS)
-
-</div>
-
 #### 🛒 E-commerce para Autopeças — Full Stack
 > Projeto Integrador · Univesp · 2025–2026
 
@@ -100,19 +82,8 @@ Plataforma web lúdica com foco em **acessibilidade digital (WCAG)** e **design 
 
 `HTML` `CSS` `JavaScript` `Bootstrap` `C#` `.NET` `SQL`
 
----
 
-### 🐍 Minhas contribuições
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrisAS/beatrisAS/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatrisAS/beatrisAS/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/beatrisAS/beatrisAS/output/github-snake.svg" />
-  </picture>
-</div>
-
----
 
 ### 🏢 Experiência
 
