@@ -1,31 +1,137 @@
-<h1> 🖖🏻👽 Hello, World! My name is Beatris! 🪐🌟 </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Beatris+%F0%9F%91%8B;Analista+de+Dados+Jr.;Python+%7C+SQL+%7C+AWS;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
+</div>
 
-🎓 I'm currently pursuing a Bachelor's degree in Information Technology at UNIVESP.
+<br/>
 
-🚀 **Current Focus:**
-*   **AWS Cloud Foundations**
-*   **Data Analysis**
-
-🎬 I enjoy watching movies and series.
-
-🎸 I like rock and pop music.
+<div align="center">
+  <a href="https://linkedin.com/in/beatrisantunessilva">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:beatrisantunes2012@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/beatrisAS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=beatrisAS&style=for-the-badge&color=6E40C9&label=VISITAS" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👩‍💻 Sobre mim
 
-<div style="display: inline_block">
-  <!-- Cloud & Data -->
-  <img align="center" alt="Bea-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Bea-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bea-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Bea-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-  
-  <!-- Web Basics -->
-  <img align="center" alt="Bea-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bea-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Bea-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+```python
+beatris = {
+    "role":       "Estagiária → Analista de Dados Jr.",
+    "company":    "DataPrev",
+    "location":   "Pirituba, São Paulo – SP 🇧🇷",
+    "focus":      ["Python", "SQL", "ETL", "AWS", "Automação"],
+    "studying":   "Bacharelado em TI @ Univesp",
+    "goal":       "Transformar dados em insights acionáveis 📊",
+}
+```
+
+- 🔭 Atualmente trabalhando com automações em **Python + Shell Script** e monitoramento via **AWS CloudWatch**
+- 🌱 Em transição para **Análise de Dados** — estudando EDA, visualização e pipelines de dados
+- ☁️ Certificada **AWS re/Start** pela Escola da Nuvem (300h)
+- 💬 Me pergunte sobre: Python, SQL, AWS, automação de processos ou acessibilidade web
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+**Dados & Análise**
+
+<img src="https://skillicons.dev/icons?i=python,sqlite&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="40"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,git,linux&theme=dark" />
+
+**Desenvolvimento**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,java,bootstrap,figma&theme=dark" />
+
 </div>
 
+---
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrisAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=beatrisAS&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<div align="center">
+
+[![E-commerce Autopeças](https://github-readme-stats.vercel.app/api/pin/?username=beatrisAS&repo=ecommerce-autopecas&theme=tokyonight&hide_border=true)](https://github.com/beatrisAS)
+[![Plataforma Infantil](https://github-readme-stats.vercel.app/api/pin/?username=beatrisAS&repo=plataforma-infantil&theme=tokyonight&hide_border=true)](https://github.com/beatrisAS)
+
+</div>
+
+#### 🛒 E-commerce para Autopeças — Full Stack
+> Projeto Integrador · Univesp · 2025–2026
+
+Plataforma escalável com arquitetura monolítica modular, modelagem relacional com **SQL Server** e deploy em nuvem. Back-end robusto em **C# / .NET** para gestão de produtos, clientes e pedidos.
+
+`C#` `.NET` `SQL Server` `Cloud Computing`
+
+#### 🧠 Plataforma Interativa Infantil de Aprendizagem — TCC
+> ETEC · 2025
+
+Plataforma web lúdica com foco em **acessibilidade digital (WCAG)** e **design inclusivo** para crianças neurodivergentes — com gamificação e estimulação cognitiva.
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `C#` `.NET` `SQL`
+
+---
+
+### 🐍 Minhas contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrisAS/beatrisAS/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatrisAS/beatrisAS/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/beatrisAS/beatrisAS/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🏢 Experiência
+
+| Período | Empresa | Papel |
+|:---|:---|:---|
+| mar/2025 – mar/2026 | **DataPrev** | Estagiária · Infraestrutura & Dados |
+| mar/2024 – set/2024 | **FITec** | Residente em Desenvolvimento de Sistemas |
+| mar/2023 – jul/2023 | **Central IT** | Programadora de Sistemas de Informação |
+
+### 🎓 Formação & Certificações
+
+| | |
+|:---|:---|
+| 🎓 | Bacharelado em TI — **Univesp** (2023–2026) |
+| 🎓 | Técnico em Desenvolvimento de Sistemas — **ETEC** (2024–2025) |
+| ☁️ | **AWS re/Start** — Escola da Nuvem · 300h · 2026 |
+
+---
+
+<div align="center">
+  <i>✨ "Dados são o novo petróleo — mas só valem se refinados." ✨</i>
+</div>
