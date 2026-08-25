@@ -68,6 +68,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=beatrisAS&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 ---
 
 ### 🚀 Featured Projects
