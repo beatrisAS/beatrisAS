@@ -61,11 +61,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=beatrisAS&show_icons=true&theme=tokyonight&include_all_commits=true&v=1" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
-</div>
-
-<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=beatrisAS&show_icons=true&theme=tokyonight&include_all_commits=true&v=1" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   <img src="https://streak-stats.demolab.com?user=beatrisAS&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -96,6 +101,7 @@ Playful web platform designed for neurodivergent children, featuring gamificatio
 - **Focus:** Digital accessibility (**WCAG**) and inclusive design principles.
 - **Stack:** Built dynamic interfaces and reliable data flows.
 - **Tags:** `HTML` `CSS` `JavaScript` `Bootstrap` `C#` `.NET` `SQL`
+
 ---
 
 ### 🏢 Experience & 🎓 Education
