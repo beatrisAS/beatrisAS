@@ -23,7 +23,7 @@
 
 - 🔭 **Currently working on:** Process automation using Python + Shell Script and infrastructure monitoring via AWS CloudWatch.
 - 🌱 **Learning:** Transitioning into Data Analysis — diving deep into EDA, Machine Learning, and data pipelines.
-- 🎯 **Goal:** Transforming raw data into strategic, actionable insights.
+- 💡 **Interested in:** Working on projects with social impact.
 - ☁️ **Certifications:** AWS Certified Cloud Practitioner & AWS re/Start by Escola da Nuvem (300h).
 - 💬 **Ask me about:** Python, SQL, AWS, data visualization, or process automation.
 
@@ -61,14 +61,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=beatrisAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=beatrisAS&show_icons=true&theme=tokyonight&include_all_commits=true&v=1" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=beatrisAS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=beatrisAS&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
 ---
 
 ### 🚀 Featured Projects
@@ -76,13 +75,13 @@
 #### 📉 Churn Prediction | Machine Learning & Data Science
 > Jul 2026 – Present | [🔗 View Repository](https://github.com/beatrisAS/churn-project)
 
-Data Science project focused on predicting customer churn to support retention strategies. 
+Data Science project focused on predicting customer churn to support retention strategies.
 - **Analysis & Modeling:** Performed Exploratory Data Analysis (EDA), data preprocessing, and feature engineering. Trained and compared multiple predictive models to find the most accurate solution.
 - **Visualization:** Developed an interactive dashboard to visualize churn forecasts and results.
 - **Tags:** `Python` `Pandas` `Scikit-Learn` `Streamlit` `Machine Learning`
 
 #### 🛒 Auto Parts E-commerce — Full Stack Web Application
-> Integrator Project · Univesp · 2025–2026 | [🔗 View Repository](#)
+> Integrator Project · Univesp · 2025–2026 | [🔗 View Repository](https://github.com/beatrisAS/univesp-pi-3)
 
 Scalable e-commerce platform built for the auto parts industry utilizing a modular monolithic architecture.
 - **Backend:** Robust product, customer, and order management using **C# / .NET**.
@@ -90,13 +89,12 @@ Scalable e-commerce platform built for the auto parts industry utilizing a modul
 - **Tags:** `C#` `.NET` `SQL Server` `Cloud Computing`
 
 #### 🧠 Interactive Children's Learning Platform — TCC
-> ETEC · 2025 | [🔗 View Repository](#)
+> ETEC · 2025 | [🔗 View Repository](https://github.com/beatrisAS/Plataforma_Interativa_Infantil)
 
 Playful web platform designed for neurodivergent children, featuring gamification and cognitive stimulation.
 - **Focus:** Digital accessibility (**WCAG**) and inclusive design principles.
 - **Stack:** Built dynamic interfaces and reliable data flows.
 - **Tags:** `HTML` `CSS` `JavaScript` `Bootstrap` `C#` `.NET` `SQL`
-
 ---
 
 ### 🏢 Experience & 🎓 Education
@@ -112,5 +110,5 @@ Playful web platform designed for neurodivergent children, featuring gamificatio
 
 <div align="center">
   <br/>
-  <i>✨ "Data is the new oil — but only valuable when refined." ✨</i>
+  <i>✨ "Life is 10% what happens to me and 90% how I react to it." ✨</i>
 </div>
