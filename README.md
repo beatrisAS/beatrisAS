@@ -80,14 +80,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 LLM Application | Generative AI & Prompt Engineering
-> 2026 – Present | [🔗 View Repository](https://github.com/beatrisAS/)
-
-Developed and refined structured prompts and AI pipelines to generate creative content and complex character concepts using Generative AI models.
-- **Analysis & Modeling:** Explored Large Language Models for automated content creation, implementing advanced Prompt Engineering techniques and API integrations.
-- **Tags:** `Python` `OpenAI API` `Prompt Engineering` `Generative AI`
-
-#### 📉 Predictive Modeling | Machine Learning & Data Science
+#### 📉 Churn Prediction | Machine Learning & Data Science
 > Jul 2026 – Present | [🔗 View Repository](https://github.com/beatrisAS/churn-project)
 
 Data Science project focused on predicting customer churn to support retention strategies.
@@ -100,6 +93,14 @@ Data Science project focused on predicting customer churn to support retention s
 Scalable e-commerce platform built for the auto parts industry utilizing a modular monolithic architecture.
 - **Backend & Cloud:** Robust management using **C# / .NET** and scalable cloud deployment.
 - **Tags:** `C#` `.NET` `SQL Server` `Cloud Computing`
+
+#### 🧠 Interactive Children's Learning Platform — TCC
+> ETEC · 2025 | [🔗 View Repository](https://github.com/beatrisAS/Plataforma_Interativa_Infantil)
+
+Playful web platform designed for neurodivergent children, featuring gamification and cognitive stimulation.
+- **Focus:** Digital accessibility (**WCAG**) and inclusive design principles.
+- **Stack:** Built dynamic interfaces and reliable data flows.
+- **Tags:** `HTML` `CSS` `JavaScript` `Bootstrap` `C#` `.NET` `SQL`
 
 ---
 
