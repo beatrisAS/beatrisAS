@@ -22,9 +22,9 @@
 ### 👩‍💻 About Me
 
 - 🔭 **Currently working on:** Building Generative AI solutions, exploring Large Language Models (LLMs), and advanced Prompt Engineering.
-- 🌱 **Learning:** Enrolled in the **AI & LLM Bootcamp by Claro in partnership with SoulCode**, diving deep into RAG (Retrieval-Augmented Generation), fine-tuning, and NLP pipelines.
+- 🌱 **Learning:** Diving deep into RAG (Retrieval-Augmented Generation), fine-tuning, and NLP pipelines.
 - 💡 **Interested in:** Artificial Intelligence, Generative AI applications, and working on innovative projects with social impact.
-- ☁️ **Certifications:** AWS re/Start by Escola da Nuvem (300h) | AI LLM Bootcamp (Claro & SoulCode).
+- ☁️ **Certifications:** AWS re/Start by Escola da Nuvem (300h).
 - 💬 **Ask me about:** Python, LLMs, Prompt Engineering, Data Engineering, or AWS cloud infrastructure.
 
 ---
@@ -108,11 +108,9 @@ Playful web platform designed for neurodivergent children, featuring gamificatio
 
 | 💼 Professional Experience | 🎓 Education & Certifications |
 |:---|:---|
-| **DataPrev** <br/> *IT Intern · Infrastructure & Data* <br/> `Mar/2025 – Mar/2026` | **Bootcamp IA LLM** <br/> *Claro & SoulCode* <br/> `Currently Enrolled` |
-| **FITec** <br/> *Systems Development Resident* <br/> `Mar/2024 – Sep/2024` | **Bachelor in Information Technology** <br/> *Universidade Virtual do Estado de São Paulo (Univesp)* <br/> `2023 – 2026` |
-| **Central IT** <br/> *Information Systems Programmer* <br/> `Mar/2023 – Jul/2023` | **Systems Development Technician** <br/> *Escola Técnica Estadual (ETEC)* <br/> `2024 – 2025` |
-| | **AWS Certified Cloud Practitioner** <br/> *Amazon Web Services* <br/> `2026` |
-| | **AWS re/Start Certification** <br/> *Escola da Nuvem (300h)* <br/> `2026` |
+| **DataPrev** <br/> *IT Intern · Infrastructure & Data* <br/> `Mar/2025 – Mar/2026` | **Bachelor in Information Technology** <br/> *Universidade Virtual do Estado de São Paulo (Univesp)* <br/> `2023 – 2026` |
+| **FITec** <br/> *Systems Development Resident* <br/> `Mar/2024 – Sep/2024` | **Systems Development Technician** <br/> *Escola Técnica Estadual (ETEC)* <br/> `2024 – 2025` |
+| **Central IT** <br/> *Information Systems Programmer* <br/> `Mar/2023 – Jul/2023` | **AWS re/Start Certification** <br/> *Escola da Nuvem (300h)* <br/> `2026` |
 
 ---
 
