@@ -24,7 +24,7 @@
 - 🔭 **Currently working on:** Building Generative AI solutions, exploring Large Language Models (LLMs), and advanced Prompt Engineering.
 - 🌱 **Learning:** Enrolled in the **AI & LLM Bootcamp by Claro in partnership with SoulCode**, diving deep into RAG (Retrieval-Augmented Generation), fine-tuning, and NLP pipelines.
 - 💡 **Interested in:** Artificial Intelligence, Generative AI applications, and working on innovative projects with social impact.
-- ☁️ **Certifications:** AWS Certified Cloud Practitioner & AWS re/Start by Escola da Nuvem (300h) | AI LLM Bootcamp (Claro & SoulCode).
+- ☁️ **Certifications:** AWS re/Start by Escola da Nuvem (300h) | AI LLM Bootcamp (Claro & SoulCode).
 - 💬 **Ask me about:** Python, LLMs, Prompt Engineering, Data Engineering, or AWS cloud infrastructure.
 
 ---
