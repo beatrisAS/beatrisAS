@@ -81,11 +81,18 @@
 ### 🚀 Featured Projects
 
 #### 📉 Churn Prediction | Machine Learning & Data Science
-> Jul 2026 – Present | [🔗 View Repository](https://github.com/beatrisAS/churn-project)
+> Jul 2026 | [🔗 View Repository](https://github.com/beatrisAS/churn-project)
 
 Data Science project focused on predicting customer churn to support retention strategies.
 - **Analysis & Modeling:** Performed Exploratory Data Analysis (EDA), data preprocessing, and feature engineering. Trained and compared multiple predictive models to find the most accurate solution.
 - **Tags:** `Python` `Pandas` `Scikit-Learn` `Streamlit` `Machine Learning`
+
+#### ☁️ Cloud Resume / AWS Visitor Counter
+> Sep 2026 | [🔗 View Repository](https://github.com/beatrisAS/TCC_AWS_contador_acessos)
+
+Serverless architecture developed on AWS to implement a dynamic visitor counter for web applications.
+- **Architecture & Processing:** Configured serverless functions using AWS Lambda for backend logic and integration with Amazon DynamoDB for NoSQL data persistence.
+- **Tags:** `AWS Lambda` `Amazon DynamoDB` `API Gateway` `JavaScript` `Cloud Computing`
 
 #### 🛒 Auto Parts E-commerce — Full Stack Web Application
 > Integrator Project · Univesp · 2025–2026 | [🔗 View Repository](https://github.com/beatrisAS/univesp-pi-3)
