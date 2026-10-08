@@ -24,7 +24,7 @@
 - 🔭 **Currently working on:** Building Generative AI solutions, exploring Large Language Models (LLMs), and advanced Prompt Engineering.
 - 🌱 **Learning:** Diving deep into RAG (Retrieval-Augmented Generation), fine-tuning, and NLP pipelines.
 - 💡 **Interested in:** Artificial Intelligence, Generative AI applications, and working on innovative projects with social impact.
-- ☁️ **Certifications:** AWS re/Start by Escola da Nuvem (300h).
+- ☁️ **Certifications:** AWS re/Start by Escola da Nuvem (300h) | Data Analyst Bootcamp by Generation Brasil.
 - 💬 **Ask me about:** Python, LLMs, Prompt Engineering, Data Engineering, or AWS cloud infrastructure.
 
 ---
@@ -118,6 +118,7 @@ Playful web platform designed for neurodivergent children, featuring gamificatio
 | **DataPrev** <br/> *IT Intern · Infrastructure & Data* <br/> `Mar/2025 – Mar/2026` | **Bachelor in Information Technology** <br/> *Universidade Virtual do Estado de São Paulo (Univesp)* <br/> `2023 – 2026` |
 | **FITec** <br/> *Systems Development Resident* <br/> `Mar/2024 – Sep/2024` | **Systems Development Technician** <br/> *Escola Técnica Estadual (ETEC)* <br/> `2024 – 2025` |
 | **Central IT** <br/> *Information Systems Programmer* <br/> `Mar/2023 – Jul/2023` | **AWS re/Start Certification** <br/> *Escola da Nuvem (300h)* <br/> `2026` |
+| | **Data Analyst Bootcamp** <br/> *Generation Brasil* |
 
 ---
 
