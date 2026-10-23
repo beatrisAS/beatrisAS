@@ -115,10 +115,10 @@ Playful web platform designed for neurodivergent children, featuring gamificatio
 
 | 💼 Professional Experience | 🎓 Education & Certifications |
 |:---|:---|
-| **DataPrev** <br/> *IT Intern · Infrastructure & Data* <br/> `Mar/2025 – Mar/2026` | **Bachelor in Information Technology** <br/> *Universidade Virtual do Estado de São Paulo (Univesp)* <br/> `2023 – 2026` |
-| **FITec** <br/> *Systems Development Resident* <br/> `Mar/2024 – Sep/2024` | **Systems Development Technician** <br/> *Escola Técnica Estadual (ETEC)* <br/> `2024 – 2025` |
-| **Central IT** <br/> *Information Systems Programmer* <br/> `Mar/2023 – Jul/2023` | **AWS re/Start Certification** <br/> *Escola da Nuvem (300h)* <br/> `2026` |
-| | **Data Analyst Bootcamp** <br/> *Generation Brasil* |
+| **Central IT** <br/> *Information Systems Programmer* <br/> `Mar/2023 – Jul/2023` | **Bachelor in Information Technology** <br/> *Universidade Virtual do Estado de São Paulo (Univesp)* <br/> `Jul/2023 – Jun/2026` |
+| **FITec** <br/> *Systems Development Resident* <br/> `Mar/2024 – Sep/2024` | **Systems Development Technician** <br/> *Escola Técnica Estadual (ETEC)* <br/> `Aug/2024 – Dec/2025` |
+| **DataPrev** <br/> *IT Intern · Infrastructure & Data* <br/> `Mar/2025 – Mar/2026` | **AWS re/Start Certification** <br/> *Escola da Nuvem (300h)* <br/> `Apr/2026 – Sep/2026` |
+| | **Data Analyst Bootcamp** <br/> *Generation Brasil* <br/> `Oct/2026 – Jan/2027` |
 
 ---
 
