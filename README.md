@@ -11,7 +11,7 @@
 
   <h1>Olá, sou a Beatris! 💜</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Entusiasta+de+Aprendizado+de+M%C3%A1quina;Python+%7C+Ci%C3%AAncia+de+Dados+%7C+Aprendizado+de+M%C3%A1quina;Transformando+Dados+em+Informa%C3%A7%C3%B5es+Relevantes;Criando+Tecnologia+com+Prop%C3%B3sito" alt="Apresentação animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Futura+Engenheira+de+Machine+Learning;Python+%7C+SQL+%7C+Machine+Learning" alt="Futura engenheira de Machine Learning | Python, SQL e tecnologia com propósito"/>
 
   <br/>
 
@@ -37,11 +37,9 @@
 
 ## 💜 Sobre mim
 
-Sou apaixonada por **Aprendizado de Máquina, Ciência de Dados e soluções impulsionadas por tecnologia**.
+Sou profissional de tecnologia da informação, com interesse em Machine Learning, Ciência de Dados e soluções orientadas por dados. Minha experiência em desenvolvimento de software, computação em nuvem e infraestrutura de TI me permite abordar projetos de forma multidisciplinar.
 
-Gosto de transformar dados em informações relevantes, desenvolver modelos preditivos e criar soluções inteligentes que conectem o pensamento analítico a resultados no mundo real.
-
-Com experiência em **desenvolvimento de software, computação em nuvem e infraestrutura de TI**, trago uma perspectiva multidisciplinar para projetos orientados por dados.
+Atualmente, estou aprofundando meus conhecimentos em Python, análise de dados e modelos preditivos. Busco aplicar essas habilidades em projetos que transformem dados em informações úteis e apoiem decisões com impacto no mundo real.
 
 - 🔭 **Trabalhando em:** modelos de Aprendizado de Máquina e projetos de Ciência de Dados, da análise exploratória à implantação.
 - 🌱 **Aprendendo:** engenharia de atributos, otimização de modelos, técnicas de avaliação e fluxos de trabalho de aprendizado de máquina prontos para produção.
