@@ -5,11 +5,11 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:120D2C,50:52218A,100:8B5CF6&section=header" alt="Header"/>
 
-  <img src="assets/avatar.png" width="210" alt="Beatris Antunes Silva - Anime Avatar"/>
+  <img src="avatar.png" width="210" alt="Beatris Antunes Silva - Anime Avatar"/>
 
   <br/><br/>
 
-  <h1>Hi, I'm Beatris Antunes Silva! 💜</h1>
+  <h1>Hi, I'm Beatris! 💜</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Machine+Learning+Enthusiast;Python+%7C+Data+Science+%7C+Machine+Learning;Turning+Data+Into+Meaningful+Insights;Building+Technology+With+Purpose" alt="Typing introduction"/>
 
