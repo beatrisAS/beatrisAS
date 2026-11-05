@@ -37,16 +37,16 @@
 
 ## 💜 Sobre mim
 
-Sou profissional de tecnologia da informação, com interesse em Machine Learning, Ciência de Dados e soluções orientadas por dados. Minha experiência em desenvolvimento de software, computação em nuvem e infraestrutura de TI me permite abordar projetos de forma multidisciplinar.
+Sou profissional de tecnologia da informação, com interesse em **Machine Learning** e soluções orientadas por dados. Minha experiência em desenvolvimento de software, computação em nuvem e infraestrutura de TI me permite abordar projetos de forma multidisciplinar.
 
 Atualmente, estou aprofundando meus conhecimentos em Python, análise de dados e modelos preditivos. Busco aplicar essas habilidades em projetos que transformem dados em informações úteis e apoiem decisões com impacto no mundo real.
 
-- 🔭 **Trabalhando em:** modelos de Aprendizado de Máquina e projetos de Ciência de Dados, da análise exploratória à implantação.
-- 🌱 **Aprendendo:** engenharia de atributos, otimização de modelos, técnicas de avaliação e fluxos de trabalho de aprendizado de máquina prontos para produção.
-- 🎯 **Interesses:** Aprendizado de Máquina, Ciência de Dados, MLOps e tecnologia para impacto social.
+- 🔭 **Trabalhando em:** modelos de Machine Learning, da análise exploratória à implantação.
+- 🌱 **Aprendendo:** engenharia de atributos, otimização de modelos, técnicas de avaliação e fluxos de trabalho de Machine Learning prontos para produção.
+- 🎯 **Interesses:** Machine Learning, MLOps e tecnologia para impacto social.
 - ☁️ **Experiência em nuvem:** AWS re/Start pela Escola da Nuvem (300 horas).
-- 📊 **Formação em dados:** Bootcamp de Analista de Dados da Generation Brasil.
-- 💬 **Pode falar comigo sobre:** Python, Aprendizado de Máquina, Ciência de Dados, SQL e análise de dados.
+- 📊 **Formação:** Bootcamp de Analista de Dados da Generation Brasil.
+- 💬 **Pode falar comigo sobre:** Python, Machine Learning, SQL e análise de dados. 
 
 <br/>
 
@@ -56,7 +56,7 @@ Atualmente, estou aprofundando meus conhecimentos em Python, análise de dados e
 
 <div align="center">
 
-### 🤖 Aprendizado de Máquina e Ciência de Dados
+### 🤖 Machine Learning e Ciência de Dados
 
 <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-24143F?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -114,18 +114,18 @@ Atualmente, estou aprofundando meus conhecimentos em Python, análise de dados e
 
 ## 🚀 Projetos em destaque
 
-Uma seleção de projetos que combinam **Aprendizado de Máquina, Ciência de Dados, Computação em Nuvem e Engenharia de Software**.
+Uma seleção de projetos que combinam **Machine Learning, Computação em Nuvem e Engenharia de Software**.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📉 Previsão de cancelamento de clientes</h3>
-      <p><b>Aprendizado de Máquina e Ciência de Dados</b> · Jul. 2026</p>
+      <p><b>Machine Learning</b> · Jul. 2026</p>
       <p>
-        Projeto de modelagem preditiva para identificar clientes com risco de cancelamento e apoiar estratégias de retenção orientadas por dados.
+        Projeto de modelagem preditiva para identificar clientes com risco de cancelamento e apoiar estratégias de retenção.
       </p>
       <p>
-        Inclui análise exploratória de dados, pré-processamento, engenharia de atributos e comparação de modelos preditivos.
+        Inclui análise exploratória, pré-processamento, engenharia de atributos e comparação de modelos preditivos.
       </p>
       <p>
         <code>Python</code>
@@ -227,7 +227,7 @@ Uma seleção de projetos que combinam **Aprendizado de Máquina, Ciência de Da
 
 Tenho interesse em oportunidades para colaborar, trocar conhecimentos e desenvolver soluções tecnológicas com propósito.
 
-Entre em contato para conversar sobre **Aprendizado de Máquina, Ciência de Dados, Computação em Nuvem e Desenvolvimento de Software**.
+Entre em contato para conversar sobre **Machine Learning, Computação em Nuvem e Desenvolvimento de Software**.
 
 <div align="center">
 
@@ -252,6 +252,9 @@ Entre em contato para conversar sobre **Aprendizado de Máquina, Ciência de Dad
   <br/><br/>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120D2C,50:52218A,100:8B5CF6&height=110&section=footer" alt="Rodapé"/>
+
+</div>
+
 
 </div>
 
