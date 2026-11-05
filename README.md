@@ -3,46 +3,52 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:172B4D,50:0A66C2,100:7C83D5&text=Beatris%20Antunes%20Silva&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Python&descAlignY=58&descSize=17&animation=fadeIn" alt="Beatris Antunes Silva"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:120D2C,50:52218A,100:8B5CF6&section=header" alt="Header"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=0A66C2&center=true&vCenter=true&width=750&height=45&lines=Machine+Learning+Enthusiast;Turning+Data+Into+Meaningful+Insights;Building+Intelligent+Solutions+With+Python" alt="Typing introduction"/>
+  <img src="assets/avatar.png" width="210" alt="Beatris Antunes Silva - Anime Avatar"/>
+
+  <br/><br/>
+
+  <h1>Hi, I'm Beatris Antunes Silva! 💜</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Machine+Learning+Enthusiast;Python+%7C+Data+Science+%7C+Machine+Learning;Turning+Data+Into+Meaningful+Insights;Building+Technology+With+Purpose" alt="Typing introduction"/>
 
   <br/>
 
   <a href="https://linkedin.com/in/beatrisantunessilva">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:beatrisantunes2012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-172B4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/beatrisAS">
-    <img src="https://img.shields.io/badge/GitHub-172B4D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-24143F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=beatrisAS&style=flat-square&color=0A66C2&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=beatrisAS&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
-## 👩‍💻 About Me
+## 💜 About Me
 
 I'm passionate about **Machine Learning, Data Science, and technology-driven solutions**.
 
-My interests lie in transforming data into meaningful insights, developing predictive models, and building solutions that connect analytical thinking with real-world impact.
+I enjoy transforming data into meaningful insights, developing predictive models, and creating intelligent solutions that connect analytical thinking with real-world impact.
 
-With a background in software development, cloud computing, and IT infrastructure, I bring a multidisciplinary perspective to data-driven projects.
+With a background in **software development, cloud computing, and IT infrastructure**, I bring a multidisciplinary perspective to data-driven projects.
 
-- 🔭 **Currently working on:** Machine Learning models and Data Science projects, from exploratory analysis to deployment.
-- 🌱 **Currently learning:** Feature engineering, model optimization, model evaluation, and production-ready ML workflows.
-- 🎯 **Main interests:** Machine Learning, Data Science, MLOps, and technology for social impact.
+- 🔭 **Working on:** Machine Learning models and Data Science projects, from exploratory analysis to deployment.
+- 🌱 **Learning:** Feature engineering, model optimization, evaluation techniques, and production-ready ML workflows.
+- 🎯 **Interested in:** Machine Learning, Data Science, MLOps, and technology for social impact.
 - ☁️ **Cloud background:** AWS re/Start by Escola da Nuvem (300h).
 - 📊 **Data education:** Data Analyst Bootcamp by Generation Brasil.
-- 💬 **Let's talk about:** Python, Machine Learning, SQL, Data Science, and data analysis.
+- 💬 **Ask me about:** Python, Machine Learning, Data Science, SQL, and data analysis.
 
 <br/>
 
@@ -54,35 +60,35 @@ With a background in software development, cloud computing, and IT infrastructur
 
 ### 🤖 Machine Learning & Data Science
 
-<img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-172B4D?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-172B4D?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-0A66C2?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-172B4D?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-24143F?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-52218A?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-24143F?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
 
 ### ☁️ Cloud, MLOps & DevOps
 
-<img src="https://img.shields.io/badge/AWS-172B4D?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-0A66C2?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-172B4D?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0A66C2?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-24143F?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-52218A?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br/><br/>
 
 ### 💻 Software Development
 
-<img src="https://img.shields.io/badge/C%23-172B4D?style=for-the-badge&logo=sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-0A66C2?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-172B4D?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-0A66C2?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-172B4D?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-0A66C2?style=for-the-badge&logo=css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-172B4D?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-0A66C2?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-172B4D?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-6D28D9?style=for-the-badge&logo=sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-24143F?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-52218A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-6D28D9?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-24143F?style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-52218A?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-6D28D9?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
@@ -94,23 +100,23 @@ With a background in software development, cloud computing, and IT infrastructur
 
 <div align="center">
 
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=beatrisAS&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7C83D5&border_color=30363D&v=1" alt="GitHub statistics"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=beatrisAS&show_icons=true&include_all_commits=true&bg_color=120D2C&title_color=C084FC&text_color=E9D5FF&icon_color=A78BFA&border_color=52218A&v=1" alt="GitHub Stats"/>
 
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&v=1" alt="Most used languages"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatrisAS&layout=compact&bg_color=120D2C&title_color=C084FC&text_color=E9D5FF&border_color=52218A&v=1" alt="Top Languages"/>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=beatrisAS&background=0D1117&border=30363D&stroke=7C83D5&ring=0A66C2&fire=7C83D5&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=beatrisAS&background=120D2C&border=52218A&stroke=A78BFA&ring=8B5CF6&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
-A selection of projects combining **data, machine learning, cloud computing, and software engineering**.
+A selection of projects combining **Machine Learning, Data Science, Cloud Computing, and Software Engineering**.
 
 <table>
   <tr>
@@ -228,11 +234,11 @@ Feel free to connect with me to discuss **Machine Learning, Data Science, Cloud 
 <div align="center">
 
   <a href="https://linkedin.com/in/beatrisantunessilva">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:beatrisantunes2012@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-172B4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Send_an_Email-24143F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 </div>
@@ -243,10 +249,10 @@ Feel free to connect with me to discuss **Machine Learning, Data Science, Cloud 
 
 <div align="center">
 
-  <i>"Life is 10% what happens to me and 90% how I react to it."</i>
+  <i>✨ "Life is 10% what happens to me and 90% how I react to it." ✨</i>
 
   <br/><br/>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172B4D,50:0A66C2,100:7C83D5&height=100&section=footer" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120D2C,50:52218A,100:8B5CF6&height=110&section=footer" alt="Footer"/>
 
 </div>
