@@ -39,10 +39,10 @@
 
 Sou profissional de tecnologia da informação, com interesse em **Machine Learning** e soluções orientadas por dados. Minha experiência em desenvolvimento de software, computação em nuvem e infraestrutura de TI me permite abordar projetos de forma multidisciplinar.
 
-Atualmente, estou aprofundando meus conhecimentos em Python, análise de dados e modelos preditivos. Busco aplicar essas habilidades em projetos que transformem dados em informações úteis e apoiem decisões com impacto no mundo real.
+Atualmente, estou aprofundando meus conhecimentos em Python, análise de dados e modelos preditivos. Busco aplicar essas habilidades em projetos que transformem dados em informações úteis e apoiem decisões com impacto no mundo.
 
 - 🔭 **Trabalhando em:** modelos de Machine Learning, da análise exploratória à implantação.
-- 🌱 **Aprendendo:** engenharia de atributos, otimização de modelos, técnicas de avaliação e fluxos de trabalho de Machine Learning prontos para produção.
+- 🌱 **Aprendendo:** engenharia de atributos, otimização de modelos, técnicas de avaliação e fluxos de trabalho de Machine Learning.
 - 🎯 **Interesses:** Machine Learning, MLOps e tecnologia para impacto social.
 - ☁️ **Experiência em nuvem:** AWS re/Start pela Escola da Nuvem (300 horas).
 - 📊 **Formação:** Bootcamp de Analista de Dados da Generation Brasil.
